@@ -3,7 +3,7 @@
   "version": "0.18.0dev0",
   "devDependencies": {
     "prettier": "^2.2.1",
-    "terser": "^5.7.0",
+    "terser": "^5.14.2",
     "rollup": "^2.48.0",
     "rollup-plugin-terser": "^7.0.2",
     "tsd": "^0.15.1",
